@@ -188,7 +188,6 @@
         <div class="hero-content">
             <h2>Why are Rental Prices in Singapore So High?</h2>
             <p>Discover the key factors driving Singapore’s high rental costs and how luxury developments like Vela One Condo remain in demand.</p>
-            <a href="https://velaonebayshore.com.sg/" target="_blank" class="btn">Explore Vela One Condo</a>
         </div>
     </section>
     
