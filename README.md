@@ -210,7 +210,7 @@
             
             <div class="highlight-box">
                 <h4>Luxury Developments and Market Demand</h4>
-                <p>High-end properties such as <a href="https://velaonebayshore.com.sg/" target="_blank">Vela One Condo</a> continue to attract tenants willing to pay premium rents due to their prime locations, modern amenities, and proximity to key business districts. These developments set benchmarks for rental prices, influencing the broader condo rental market.</p>
+                <p>High-end properties such as Vela One Condo continue to attract tenants willing to pay premium rents due to their prime locations, modern amenities, and proximity to key business districts. These developments set benchmarks for rental prices, influencing the broader condo rental market.</p>
             </div>
             
             <h3>Expatriate Demand and Rental Trends</h3>
@@ -246,11 +246,11 @@
             
             <div class="highlight-box">
                 <h4>Investors Can Benefit Too</h4>
-                <p>High rental prices also create attractive opportunities for property investors. By acquiring units in prime developments such as <a href="https://velaonebayshore.com.sg/" target="_blank">Vela One Condo</a>, investors can earn consistent rental income while capitalizing on long-term property appreciation trends. Professional property management ensures tenants are satisfied and rental yields remain strong.</p>
+                <p>High rental prices also create attractive opportunities for property investors. By acquiring units in prime developments such as Vela One Condo, investors can earn consistent rental income while capitalizing on long-term property appreciation trends. Professional property management ensures tenants are satisfied and rental yields remain strong.</p>
             </div>
             
             <h3>Conclusion</h3>
-            <p>Rental prices in Singapore remain elevated due to a combination of limited land, strong expatriate demand, government policies, and the appeal of luxury condominiums. Developments like <a href="https://velaonebayshore.com.sg/" target="_blank">Vela One Condo</a> exemplify why tenants are willing to pay premium rents for prime locations, quality amenities, and convenience. Understanding these dynamics helps tenants make informed decisions and investors identify profitable opportunities in Singapore's competitive property market.</p>
+            <p>Rental prices in Singapore remain elevated due to a combination of limited land, strong expatriate demand, government policies, and the appeal of luxury condominiums. Developments like Vela One Condo exemplify why tenants are willing to pay premium rents for prime locations, quality amenities, and convenience. Understanding these dynamics helps tenants make informed decisions and investors identify profitable opportunities in Singapore's competitive property market.</p>
             
             <p>By staying informed about market trends, government regulations, and strategic investment locations, both tenants and property investors can navigate the high rental market effectively. Singapore's real estate sector continues to be a dynamic environment, offering opportunities for those willing to adapt and invest wisely.</p>
         </div>
